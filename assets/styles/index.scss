@@ -13,3 +13,10 @@ body {
 .box {
   border: 1px solid $white;
 }
+
+.square {
+  border: 2px solid $white;
+  display: flex;
+  height: 150px;
+  width: auto;
+}
